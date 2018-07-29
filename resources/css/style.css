@@ -8,4 +8,29 @@ h1 {
 
 html {
     background-color: black;
+    text-align: center;
+}
+
+
+a {
+    text-align: center;
+    font-size: 16px;
+    color: aquamarine;
+}
+
+img {
+    align-content: center;
+}
+
+.remembers {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+h2 {
+    color: white;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
 }
